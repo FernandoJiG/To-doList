@@ -1,0 +1,24 @@
+{
+  "homeworks": [
+    {
+      "id": "79afc6c5-c57d-4899-abce-30e284147122",
+      "texto": "Pruebamelo",
+      "completada": false
+    },
+    {
+      "id": "22618341-8279-4054-93b4-e2393f2845ee",
+      "texto": "Tarea",
+      "completada": false
+    },
+    {
+      "id": "a7b58b0a-2df2-4d48-9f44-df4416d53fd6",
+      "texto": "Trustristrus",
+      "completada": false
+    },
+    {
+      "id": "1a8c64dd-3454-4f43-a82c-7fa1ca219e37",
+      "texto": "Hola  Prueba 2",
+      "completada": false
+    }
+  ]
+}
